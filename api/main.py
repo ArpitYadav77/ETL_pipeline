@@ -25,6 +25,17 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Enable CORS for frontend deployment (e.g., on Vercel)
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Permits all origins; in production, you can restrict this to your specific Vercel URL
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allows all headers
+)
+
 # Initialize engine for metrics endpoints
 db_url = os.getenv("DB_URL")
 if not db_url:
