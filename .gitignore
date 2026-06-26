@@ -1,0 +1,33 @@
+# Environment Variables
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local Vector Database
+rag/chroma_db/
+
+# Local Data Cache
+etl/raw_data/
+
+# Airflow Docker logs & folders
+etl/logs/
+etl/plugins/
+etl/config/
+etl/airflow.db
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Vector Store
+chroma_store/
+
+# Raw Data
+data/data.csv

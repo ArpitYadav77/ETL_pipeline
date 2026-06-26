@@ -1,0 +1,25 @@
+# Part of: E-commerce ETL Pipeline & RAG Support Assistant
+
+E-COMMERCE GLOBAL RETAIL RETURN AND REFUND POLICY
+
+At E-Commerce Global Retail, customer satisfaction is our top priority. If you are not completely satisfied with your purchase, we are here to help. Please read our policy below for details on returns, refunds, and exchanges.
+
+1. RETURN WINDOW
+Customers have a period of thirty (30) days from the date of delivery to return any eligible item. To be eligible for a return, the item must be unused, in its original packaging, and in the same condition as when it was received. A receipt or proof of purchase is required.
+
+2. NON-RETURNABLE ITEMS
+Please note that certain classes of items are strictly non-returnable and non-refundable. These include:
+- Personalized or custom-made products
+- Perishable goods (such as food, flowers, or plants)
+- Intimate and sanitary garments (including swimwear and undergarments)
+- Downloadable software, digital products, and gift cards
+- Items marked as "Final Sale" or clearance at the time of purchase
+
+3. HOW TO INITIATE A RETURN
+To start a return, please visit our online Return Portal on our website, input your Order Number and email address, and select the item(s) you wish to return. Alternatively, you can email our support team at returns@ecomretail.com. Once approved, we will send you a pre-paid return shipping label and instructions. Do not send items back without initiating a request first.
+
+4. REFUND TIMELINE
+Once we receive and inspect your returned item, we will send an email notification. Approved refunds will be processed and applied to your original payment method. The refund timeline is typically five to seven (5-7) business days, depending on your bank or card issuer's processing times.
+
+5. EXCHANGE POLICY
+We only replace items if they are defective or damaged. If you need to exchange an item for the same product, contact our customer service to arrange the exchange.
